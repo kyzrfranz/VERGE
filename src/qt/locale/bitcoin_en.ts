@@ -6,8 +6,8 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>Über VERGE</source>
-        <translation>Über VERGE</translation>
+        <source>About VERGE</source>
+        <translation>&Uuml;ber VERGE</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -33,7 +33,7 @@ Diese Software ist experimentell.
 
 Bereitgestellt unter der MIT/X11 Software Lizenz, in der beiliegenden Datei COPYING oder unter http://www.opensource.org/licenses/mit-license.php.
 
-Dieses Produkt enthöt Software die vom OpenSSL Projekt für die Verwendung im OpenSSL Toolkit (http://www.openssl.org/) und kryptographischer Software von Eric Young (eay@cryptsoft.com) und der UPnP Software von Thomas Bernard erstellt wurde.
+Dieses Produkt enth&auml;t Software die vom OpenSSL Projekt f&uuml;r die Verwendung im OpenSSL Toolkit (http://www.openssl.org/) und kryptographischer Software von Eric Young (eay@cryptsoft.com) und der UPnP Software von Thomas Bernard erstellt wurde.
 </translation>
     </message>
 </context>
@@ -47,7 +47,7 @@ Dieses Produkt enthöt Software die vom OpenSSL Projekt für die Verwendung im O
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Doppelklick zum Ändern von Adresse oder Label</translation>
+        <translation>Doppelklick zum &Auml;ndern von Adresse oder Label</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -57,7 +57,7 @@ Dieses Produkt enthöt Software die vom OpenSSL Projekt für die Verwendung im O
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Die ausgewählte Adresse in den Zwischenspeicher kopieren</translation>
+        <translation>Die ausgew&auml;hlte Adresse in den Zwischenspeicher kopieren</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -67,7 +67,7 @@ Dieses Produkt enthöt Software die vom OpenSSL Projekt für die Verwendung im O
     <message>
         <location line="-46"/>
         <source>These are your VERGE addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dies sind Deine VERGE Adressen zum Enpfang von Zahlungen. Du solltest für jeden Sender eine andere Adresse verwenden, um die Übersicht zu behalten wer Dir Zahlungen geschickt hat.</translation>
+        <translation>Dies sind Deine VERGE Adressen zum Enpfang von Zahlungen. Du solltest f&uuml;r jeden Sender eine andere Adresse verwenden, um die &Uuml;bersicht zu behalten wer Dir Zahlungen geschickt hat.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -82,7 +82,7 @@ Dieses Produkt enthöt Software die vom OpenSSL Projekt für die Verwendung im O
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a VERGE address</source>
-        <translation>Signiere eine Nachricht um zu beweisen dass Dir eine VERGE Adresse gehört</translation>
+        <translation>Signiere eine Nachricht um zu beweisen dass Dir eine VERGE Adresse geh&ouml;rt</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -92,12 +92,12 @@ Dieses Produkt enthöt Software die vom OpenSSL Projekt für die Verwendung im O
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Die ausgewählte Adresse aus der Liste löschen</translation>
+        <translation>Die ausgew&auml;hlte Adresse aus der Liste l&ouml;schen</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified VERGE address</source>
-        <translation>Verifiziere eine Nachricht um sicherzustellen dass sie mit einer zugehörigen VERGE Adresse signiert wurde</translation>
+        <translation>Verifiziere eine Nachricht um sicherzustellen dass sie mit einer zugeh&ouml;rigen VERGE Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,7 +107,7 @@ Dieses Produkt enthöt Software die vom OpenSSL Projekt für die Verwendung im O
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Löschen</translation>
+        <translation>&amp;L&ouml;schen</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
@@ -183,7 +183,7 @@ Dieses Produkt enthöt Software die vom OpenSSL Projekt für die Verwendung im O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Neues Passwort für die Wallet setzen.&lt;br/&gt;Bitte ein Passwort mit mindestens &lt;b&gt;10 oder mehr zufälligen Zeichen&lt;/b&gt;, oder &lt;b&gt;acht oder mehr W&auml;rtern&lt;/b&gt; verwenden.</translation>
+        <translation>Neues Passwort f&uuml;r die Wallet setzen.&lt;br/&gt;Bitte ein Passwort mit mindestens &lt;b&gt;10 oder mehr zuf&aum;lligen Zeichen&lt;/b&gt;, oder &lt;b&gt;acht oder mehr W&auml;rtern&lt;/b&gt; verwenden.</translation>
     </message>
     <message>
         <location line="+1"/>
