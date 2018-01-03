@@ -304,27 +304,27 @@ Dieses Produkt enth&auml;t Software die vom OpenSSL Projekt f&uuml;r die Verwend
     <message>
         <location filename="../bitcoingui.cpp" line="+257"/>
         <source>Sign &amp;message...</source>
-        <translation>Sign &amp;message...</translation>
+        <translation>Nachricht &amp;signieren...</translation>
     </message>
     <message>
         <location line="+237"/>
         <source>Synchronizing with network...</source>
-        <translation>Synchronizing with network...</translation>
+        <translation>Synchronisiert mit Netzwerk...</translation>
     </message>
     <message>
         <location line="-299"/>
         <source>&amp;Overview</source>
-        <translation>&amp;Overview</translation>
+        <translation>&amp;&Uuml;bersicht</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation>Show general overview of wallet</translation>
+        <translation>&Uuml;bersichtsseite der Wallet anzeigen</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>&amp;Transactions</source>
-        <translation>&amp;Transactions</translation>
+        <translation>&amp;Transaktionen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -339,42 +339,42 @@ Dieses Produkt enth&auml;t Software die vom OpenSSL Projekt f&uuml;r die Verwend
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation>Edit the list of stored addresses and labels</translation>
+        <translation>Die Liste der gespeicherten Adressen und Label bearbeiten</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation>&amp;Receive coins</translation>
+        <translation>&amp;Coins empfangen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Show the list of addresses for receiving payments</translation>
+        <translation>Die Liste der Adressen f&uuml;r zu empfangenden Zahlungen anzeigen</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation>&amp;Send coins</translation>
+        <translation>&amp;Coins senden</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>E&amp;xit</source>
-        <translation>E&amp;xit</translation>
+        <translation>B&amp;eenden</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation>Quit application</translation>
+        <translation>Anwendung Schlie&szlig;en</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Show information about VERGE</source>
-        <translation>Show information about VERGE</translation>
+        <translation>Informationen &uuml;ber VERGE anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation>About &amp;Qt</translation>
+        <translation>&Uuml;ber &amp;Qt</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -384,17 +384,17 @@ Dieses Produkt enth&auml;t Software die vom OpenSSL Projekt f&uuml;r die Verwend
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation>&amp;Options...</translation>
+        <translation>&amp;Optionen...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Encrypt Wallet...</translation>
+        <translation>Wallet &amp;verschl&uuml;sseln...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Backup Wallet...</translation>
+        <translation>Wallet &amp; absichern...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -406,13 +406,13 @@ Dieses Produkt enth&auml;t Software die vom OpenSSL Projekt f&uuml;r die Verwend
         <source>~%n block(s) remaining</source>
         <translation>
             <numerusform>~%n block remaining</numerusform>
-            <numerusform>~%n blocks remaining</numerusform>
+            <numerusform>~%n bl&ouml;cke verbleibend</numerusform>
         </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>Downloaded %1 of %2 blocks of transaction history (%3% done).</translation>
+        <translation>%1 von %2 bl&ouml;cken der Transaktions-History heruntergeladen (%3% abgeschlossen).</translation>
     </message>
     <message>
         <location line="-242"/>
@@ -422,27 +422,27 @@ Dieses Produkt enth&auml;t Software die vom OpenSSL Projekt f&uuml;r die Verwend
     <message>
         <location line="-58"/>
         <source>Send coins to a VERGE address</source>
-        <translation>Send coins to a VERGE address</translation>
+        <translation>Coins zu einer VERGE Adresse schicken</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Modify configuration options for VERGE</source>
-        <translation>Modify configuration options for VERGE</translation>
+        <translation>Konfigurationen f&uuml;r VERGE modifizieren</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Export the data in the current tab to a file</source>
-        <translation>Export the data in the current tab to a file</translation>
+        <translation>Daten im aktuellen Tab in eine Datei exportieren</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation>Encrypt or decrypt wallet</translation>
+        <translation>Wallet verschl&uuml;sseln oder entschl&uuml;sseln</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>Backup wallet to another location</translation>
+        <translation>Wallet absichern</translation>
     </message>
     <message>
         <location line="+2"/>
